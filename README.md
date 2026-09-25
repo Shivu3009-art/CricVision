@@ -1,3 +1,9 @@
+Open The VS code and then open VS code Terminal 
+and Run the command : python app.py
+it shows :  http://127.0.0.1:5000
+copy the URL  http://127.0.0.1:5000 
+Run in Browser
+
 # CRICVISION
 
 Cricket Match Win Prediction Using Machine Learning
